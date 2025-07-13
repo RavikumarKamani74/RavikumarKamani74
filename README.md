@@ -1,5 +1,5 @@
 ### 🔧 About Me
-- 🎓 Self-taught DevOps learner with hands-on project experience on **AWS, Lambda, S3, DynamoDB, and API Gateway**  
+- 🎓 Self-taught DevOps learner with hands-on project experience on **EC2, VPC, IAM, Lambda, S3, DynamoDB, and API Gateway**  
 - 🔄 Built and deployed **CI/CD pipelines** using GitHub Actions  
 - ⚡ Passionate about cloud automation, infrastructure-as-code, and real-world problem solving  
 - 📚 Currently preparing for **AWS Certified Solutions Architect – Associate**  
