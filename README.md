@@ -52,6 +52,12 @@ Note-taking CRUD app with secure AWS backend and cost monitoring.
 
 ---
 
+### [5. Audit & Compliance Logging System](https://github.com/RavikumarKamani74/audit-compliance-logging-system)
+Real-time AWS security audit & compliance monitoring using CloudTrail, Athena, EventBridge & SNS
+
+- **Stack:** Cloutrail, AWS Glue, Amazon Athena, S3, CloudWatch, IAM, SNS, Amazon EventBridge 
+- **Features:** Audit & Compliance Logging System, Query in Athena
+
 ## 📬 Contact Me
 
 📧 ravikamani789@gmail.com  
