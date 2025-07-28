@@ -56,7 +56,7 @@ Note-taking CRUD app with secure AWS backend and cost monitoring.
 Real-time AWS security audit & compliance monitoring using CloudTrail, Athena, EventBridge & SNS
 
 - **Stack:** Cloutrail, AWS Glue, Amazon Athena, S3, CloudWatch, IAM, SNS, Amazon EventBridge 
-- **Features:** Audit & Compliance Logging System, Query in Athena
+- **Features:** Built a real-time security logging and alerting system using CloudTrail, Athena, Glue, EventBridge, and CloudWatch
 
 ## 📬 Contact Me
 
