@@ -60,7 +60,7 @@ Real-time AWS security audit & compliance monitoring using CloudTrail, Athena, E
 
 ---
 
-### [6. Three-Tier Web Application on AWS](https://github.com/RavikumarKamani74/Three-Tier Web Application on AWS)
+### [6. three-tier-app-on-aws](https://github.com/RavikumarKamani74/three-tier-app-on-aws)
 A production-ready 3-tier web application on AWS using EC2, ALB, RDS, S3, and CloudFront with CI/CD via GitHub Actions and real-time monitoring using CloudWatch and SNS. Built for scalability, security, and automation
 
 - **Stack:** S3, CloudFront, API Gateway, RDS, SNS, GitHub Actions, VPC, EC2, ALB, IAM role, cloudwatch 
