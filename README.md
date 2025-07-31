@@ -58,6 +58,14 @@ Real-time AWS security audit & compliance monitoring using CloudTrail, Athena, E
 - **Stack:** Cloutrail, AWS Glue, Amazon Athena, S3, CloudWatch, IAM, SNS, Amazon EventBridge 
 - **Features:** Built a real-time security logging and alerting system using CloudTrail, Athena, Glue, EventBridge, and CloudWatch
 
+---
+
+### [6. Three-Tier Web Application on AWS](https://github.com/RavikumarKamani74/Three-Tier Web Application on AWS)
+A production-ready 3-tier web application on AWS using EC2, ALB, RDS, S3, and CloudFront with CI/CD via GitHub Actions and real-time monitoring using CloudWatch and SNS. Built for scalability, security, and automation
+
+- **Stack:** S3, CloudFront, API Gateway, RDS, SNS, GitHub Actions, VPC, EC2, ALB, IAM role, cloudwatch 
+- **Features:** Fully containerized three-tier web architecture on AWS (Frontend, Backend, RDS).Auto Scaling with Load Balancer for high availability and fault tolerance.
+
 ## 📬 Contact Me
 
 📧 ravikamani789@gmail.com  
