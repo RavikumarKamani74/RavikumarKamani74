@@ -1,7 +1,7 @@
 ### 👋 Hi, I'm Ravikumar Kamani – Cloud & DevOps Engineer
 
-I'm a Cloud & DevOps Engineer with hands-on experience building and deploying real-world projects using AWS services like Lambda, API Gateway, DynamoDB, Cognito, S3, and CloudFront. I specialize in serverless architecture, Infrastructure as Code (Terraform, CloudFormation), and CI/CD automation using GitHub Actions with OIDC-based IAM roles.
-After a career start in GIS mapping, I transitioned into cloud engineering through self-initiated projects and continuous learning. I recently completed 4+ AWS-based projects that demonstrate secure, scalable, and cost-effective architectures.
+I'm a Aspiring Cloud & DevOps Engineer with hands-on experience building and deploying real-world projects using AWS services like Lambda, API Gateway, DynamoDB, Cognito, S3, and CloudFront. I specialize in serverless architecture, Infrastructure as Code (Terraform, CloudFormation), and CI/CD automation using GitHub Actions with OIDC-based IAM roles.
+I transitioned into cloud engineering through self-initiated projects and continuous learning. I recently completed 4+ AWS-based projects that demonstrate secure, scalable, and cost-effective architectures.
 
 SKILLS:
 Cloud Platforms: AWS (EC2, S3, Lambda, API Gateway, DynamoDB, CloudFront, RDS, IAM, Route 53, KMS, Systems Manager)
